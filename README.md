@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=snrtn&theme=dark&show_icons=true&hide_border=true)](https://github.com/snrtn)
+[![github stats](https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&hide_border=true)](https://github.com/snrtn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact)](https://github.com/snrtn)
 
 
