@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={snrtn}&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snrtn&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={snrtn}&langs_count=8)]
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=black"/></a>
