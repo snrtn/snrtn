@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact)](https://github.com/snrtn)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React.Js-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React.Js-61DBFB?style=flat-square&logo=React&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0095D5?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
