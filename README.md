@@ -1,5 +1,5 @@
 ### Bonjour 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsnrtn-counter&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%23FFFFFF&title=Junhan&edge_flat=true)](https://github.com/snrtn)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsnrtn-counter&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%23FFFFFF&title=Junhan&edge_flat=true)](https://github.com/snrtn) -->
 
 <!--
 **snrtn/snrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&hide_border=true)](https://github.com/snrtn)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&hide_border=true)](https://github.com/snrtn) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact)](https://github.com/snrtn)
