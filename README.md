@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=HanJun.KIM&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact)](https://github.com/snrtn)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="snrtn github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
