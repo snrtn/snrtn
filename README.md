@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&hide_border=true)](https://github.com/snrtn) -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=HanJun.KIM&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hanjun.Kim&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact)](https://github.com/snrtn) -->
 
