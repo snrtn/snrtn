@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snrtn&theme=black-ice&hide_border=true&stroke=0000&background=000&ring=fff&fire=red&currStreakLabel=fff" alt="snrtn" /></div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" alt="snrtn github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=snrtn&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snrtn&layout=compact&hide_border=true&title_color=000&text_color=fff&bg_color=000000" />
 </div>
 
